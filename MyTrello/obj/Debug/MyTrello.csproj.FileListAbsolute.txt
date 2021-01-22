@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\MyTrello\MyTrello\bin\Debug\MyTrello.exe.config
+C:\Users\user\Desktop\MyTrello\MyTrello\bin\Debug\MyTrello.exe
+C:\Users\user\Desktop\MyTrello\MyTrello\bin\Debug\MyTrello.pdb
+C:\Users\user\Desktop\MyTrello\MyTrello\bin\Debug\Control.Draggable.dll
+C:\Users\user\Desktop\MyTrello\MyTrello\obj\Debug\MyTrello.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MyTrello\MyTrello\obj\Debug\MyTrello.Form1.resources
+C:\Users\user\Desktop\MyTrello\MyTrello\obj\Debug\MyTrello.Properties.Resources.resources
+C:\Users\user\Desktop\MyTrello\MyTrello\obj\Debug\MyTrello.csproj.GenerateResource.cache
+C:\Users\user\Desktop\MyTrello\MyTrello\obj\Debug\MyTrello.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyTrello\MyTrello\obj\Debug\MyTrello.csproj.CopyComplete
+C:\Users\user\Desktop\MyTrello\MyTrello\obj\Debug\MyTrello.exe
+C:\Users\user\Desktop\MyTrello\MyTrello\obj\Debug\MyTrello.pdb
+C:\Users\user\Desktop\MyTrello\MyTrello\obj\Debug\MyTrello.madde.resources
